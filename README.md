@@ -1,11 +1,10 @@
-# BEM VINDO AOU PERFIL ELIVELTON-VITOINO
-<div>
-  <a href="https://github.com/elivelton-vitorino
-">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elivelton-vitorino
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elivelton-vitorino
-&layout=compact&langs_count=6&theme=tokyonight"/>
+## Bem-vindo(a) ao perfil do Elivelton Vitorino 😁
+
+ <div>
+   <a href="https://github.com/eliveltonvitorino">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliveltonvitoino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonvitorino&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,14 +17,12 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
- 
+  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/elivelton-vitorino
-/elivelton-vitorino
-/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
