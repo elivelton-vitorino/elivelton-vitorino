@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Elivelton Vitorino 😁
+## Bem-vindo ao perfil do Elivelton Vitorino 😁
 
  <div>
    <a href="https://github.com/eliveltonvitorino">
