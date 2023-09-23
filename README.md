@@ -1,3 +1,14 @@
+🔭 Estou estudando para me tornar um Desenvolvedor Fullstack.
+
+🌱 Atualmente estou aprendendo JavaScript.
+
+🔍 Dê uma olhada nos meus pojetos do Frontend Mentor!
+
+📫 Como me contatar: elivelton737@gmail.com
+
+💬 Pergunte-me sobre Programação.
+
+🤝 Estou procurando ajuda para aprender sobre Experiência do usuário.
 <div>
   <a href="https://github.com/elivelton-vitorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elivelton-vitorino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
