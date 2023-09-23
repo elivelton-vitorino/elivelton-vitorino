@@ -9,6 +9,7 @@
 💬 Pergunte-me sobre Programação.
 
 🤝 Estou procurando ajuda para aprender sobre Experiência do usuário.
+
 <div>
   <a href="https://github.com/elivelton-vitorino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elivelton-vitorino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +23,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ###Conecte-se Comigo!
  
 <div> 
  
@@ -30,5 +31,5 @@
  <a href="https://discord.gg/1113200345456316487" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+    https://www.frontendmentor.io/profile/elivelton-vitorino
 </div>
